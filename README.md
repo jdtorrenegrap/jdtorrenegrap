@@ -2,7 +2,8 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I am a Student of Systems Engineering and Computer Science
+
+##  I'm a computer and systems engineering student
 
 - 👨‍💻 I’m currently focusing on backend development with **Python**, **Flask**, **SQL**, and other technologies.
 - 🔍 I’m passionate about **cybersecurity** and constantly exploring new areas in the field.
