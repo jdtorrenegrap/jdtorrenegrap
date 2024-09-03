@@ -28,9 +28,9 @@
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 
 ---
-<br />
 
----
+
+<br />
 
 <h2 align="center"> GitHub Statistics 📈 </h2>
   
@@ -42,6 +42,3 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdtorrenegrap&theme=radical&line_height=40&hide=css"/>
   </a>
 </div>
-
-
----
